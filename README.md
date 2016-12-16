@@ -1,0 +1,89 @@
+# harrisonturner.github.io<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Found Type</title>
+	<meta name="author" content="Harrison Turner">
+
+	<style>
+
+
+
+h2 {
+	font-family: times new roman ;
+	font-size: 72px;
+	font-weight: normal;
+	}
+
+body {
+	width: 90%;
+	max-width: 60em;
+	margin: 0 auto;
+	}
+
+	
+	body {
+	text-align: left;
+	width: 90%;
+	max-width: 60em;
+	margin: 0 auto;
+	}
+	
+
+</style>
+
+<p><figure>
+<img src="img/cover.png" width="1008" height="504" alt="cover">
+</figure></p>
+
+<figcaption>
+	<h3> Olafur Arnalds, Album Cover & Times New Roman </h3>
+	<ul>
+	<li>
+	<p>My plan with this was to create a very minimalistic
+	cover for the album to evoke more of a 
+	calm theme that goes with the music.</p>
+	</li>
+	<li>
+	<p>I chose a neutral color palette, because this doesn't
+	feel too over whelming. I wanted everything here to be organized
+	in a centered way.</p>
+	</li>
+	<li>
+	<p>The overall layout I feel is appropriate for this type, 
+	because it is meant for new paper print, and book print. 
+	I felt that I used this type in a book styled manner of type placement.
+	  </p>
+	</li>
+	<li>
+	<p>I varied between Times New Roman regular, bold, italic, and bold italic to give the cover some variation instead of being flat and still by just using regular..
+	  </p>
+	</ul>
+	</figcaption>
+	</figure>
+	
+	<p><figure>
+	<img src="img/card_cover.png" width="1008" height="504" alt="card_cover">
+	</figure></p>
+	
+	<figcaption>
+	<h3> Olafur Arnalds, Album Cover & Times New Roman </h3>
+	<ul>
+	<li>
+	<p>With the inside sleeve/card I wanted to keep this similar to the rest of the style.</p>
+	</li>
+	<li>
+	<p>I designed this to be very centered like the outside cover, and to also match the style of a printed book within the paragraph style.</p>
+	</li>
+	
+	
+</head>
+<body>
+
+
+
+
+</body>
+</html>
+
+
